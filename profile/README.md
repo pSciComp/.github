@@ -20,7 +20,7 @@
 <pre><small>A course provided by</small>
 <br>
 
-<a href="https://github.com/t4d-gmbh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t4d-gmbh/.github/main/static/logo/logo_with_Ds_wb.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pSciComp/.github/main/_static/T4D_discover_bw.svg"><img alt="T4D Logo" src="https://raw.githubusercontent.com/pSciComp/.github/main/_static/T4D_discover_bw.svg" width="220" style="vertical-align: middle;"></picture></a>
+<a href="https://github.com/t4d-gmbh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pSciComp/.github/main/_static/T4D_discover_wb.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pSciComp/.github/main/_static/T4D_discover_bw.svg"><img alt="T4D Logo" src="https://raw.githubusercontent.com/pSciComp/.github/main/_static/T4D_discover_bw.svg" width="220" style="vertical-align: middle;"></picture></a>
 </pre>
 </div>
 <!-- README-header -->
