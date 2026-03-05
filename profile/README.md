@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/pSciComp/.github/main/_static/pSciComp_logo.png" alt="pSciComp Logo" width="400">
 
 <p>
-  <a href="https://pSciComp/course">
+  <a href="https://pscicomp.courses.t4d.ch/slides/index.html">
     <img src="https://img.shields.io/badge/Course-Slides-green.svg" alt="online handout">
   </a>
-  <a href="https://pSciComp/course">
+  <a href="https://pscicomp.courses.t4d.ch/index.html">
     <img src="https://img.shields.io/badge/Course-Handout-purple.svg" alt="online handout">
   </a>
 
